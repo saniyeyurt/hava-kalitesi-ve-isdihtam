@@ -1,1 +1,1 @@
-# hava-kaliyesi-ve-isdihtam
+# Konya hava kalitesi ve isdihtam
